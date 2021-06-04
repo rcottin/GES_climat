@@ -5,11 +5,13 @@ raphael.cottin@bpifrance.fr
 Plusieurs sources de données sur l’intensité carbone et les émissions des entreprises sont mobilisées au sein de Bpifrance. Ces sources sont de nature diverses (reportées ou modélisées), et correspondent à des usages différents. Cette note fait le point sur les différentes mesures existant sur la place et donne quelques pistes pour leur utilisation.
 
 ## Généralités sur la mesure des émissions de GES et des intensités carbone
-La difficulté principale est que l’on ne mesure pas les émissions de CO2 des entreprises, sauf cas particuliers . Les émissions de GES comportent une dimension inobservable, y compris pour les acteurs eux-mêmes. En conséquence, aucune des sources de données ne peut être considérée comme un « étalon or » à l’aune de laquelle on pourrait jauger les autres. 
+La difficulté principale est que l’on ne mesure pas les émissions de CO2 des entreprises, sauf cas particuliers. Les émissions de GES comportent une dimension inobservable, y compris pour les acteurs eux-mêmes. En conséquence, **aucune des sources de données ne peut être considérée comme un « étalon or » à l’aune de laquelle on pourrait jauger les autres**. 
+
+> A l'échelle des pays, les émissions de GES sont également _calculées_ plutôt que _mesurées_. Les émissions de GES reportées par les inventaires nationaux dans le cadre de la CCNUCC sont calculées à partir de facteurs d’émissions et de process industriels. Les fuites de méthane (CH4) font figure d'exception: celles-ci sont plus localisées et peuvent de plus en plus être détectées par satellite. 
 
 En pratique, les **émissions directes** (scope 1) sont très liées à la combustion de combustibles fossiles et renouvelables (environ 90% des émissions de GES ). Le problème devient donc d’avoir accès à des données fiables de combustibles. 
 
-> Ce qui se rapproche le plus d’une mesure directe des émissions de GES sont les données reportés dans le cadre du système européen de quotas d’émission (ETS) et recueillies dans le European Union Transaction Log (lien). Ces données sont structurées au niveau des installation industrielles. 
+> Ce qui se rapproche le plus d’une mesure directe des émissions de GES sont les données reportés dans le cadre du système européen de quotas d’émission (ETS) et recueillies dans le [European Union Transaction Log](https://www.eea.europa.eu/data-and-maps/dashboards/emissions-trading-viewer-1). Ces données sont structurées au niveau des installation industrielles. 
 
 Les **émissions indirectes** (scope 2 et scopes 3) sont obligatoirement estimées. Le scope 2 (émissions liées à l’utilisation d’électricité) est conceptuellement peu controversé (conversion des MWh en CO2eq à partir de facteurs d’émission nationaux) même s’il peut y avoir des difficultés pratiques pour le cas de firmes multinationales ou d’activités transfrontières. 
 
@@ -27,7 +29,7 @@ Les données d’intensité carbone et d’émission des entreprises peuvent êt
 Les données d’installation sont très fiables si elles proviennent du système ETS car elles sont auditées régulièrement. Les données au niveau d’un secteur sont potentiellement comparables. Les données au niveau de l’entreprise font l’objet de doutes quant à leur fiabilité et leur comparabilité .
 
 #### Données reportées ou modélisées
-Le reporting des émissions de GES au niveau des entreprise font l’objet d’un processus d’harmonisation au niveau international, le Greenhouse gaz protocol. A noter que ce protocole est flou sur les méthodes utilisées pour calculer les émissions provenant des Scopes 3 : la reporting boundary (le périmètre de ce qui rentre dans la comptabilité du scope 3) est laissée à l’appréciation de chaque entité, ce qui a comme conséquence de limiter la comparabilité.
+Le reporting des émissions de GES au niveau des entreprise font l’objet d’un processus d’harmonisation au niveau international, le [Greenhouse Gas Protocol](https://ghgprotocol.org/). A noter que ce protocole est flou sur les méthodes utilisées pour calculer les émissions provenant des Scopes 3 : la reporting boundary (le périmètre de ce qui rentre dans la comptabilité du scope 3) est laissée à l’appréciation de chaque entité, ce qui a comme conséquence de limiter la comparabilité.
 
 > A noter que le CDP lui-même déconseille l’utilisation d’intensités de scope 3 reportées, y compris après retraitement . 
 
@@ -54,3 +56,17 @@ Le type de données carbone à privilégier dépend du type d’usage envisagé.
 - **Pour le reporting** (BCE par exemple) : on préfèrera des données granulaires au niveau de la firme, dont l’origine soit traçable quitte à ce que des questions subsistent quant à leur fiabilité. Il n’appartient pas à BPI d’auditer le reporting carbone produit par les entreprises de son portefeuille. Cela pointe vers une source de type Reuters. Les scopes privilégiés seront les scopes 1 et 2. 
 - **Pour l’analyse des risques** : il existe un arbitrage entre fiabilité de la donnée d’une part, et niveau de granularité de l’autre. Une utilisation à un niveau moins granulaire (sectoriel) peut être justifiée si cela permet d’avoir un degré de confiance supérieur dans intensités carbone. 
 Par ailleurs, la prise en compte du risque de transition et d’actifs échoués nécessite d’avoir une vision plus large que simplement les émissions directes, ce qui implique de considérer les émissions le long de la chaîne de valeur (scopes 3) ; une donnée disponible de manière fiable uniquement au niveau sectoriel (cf. supra). 
+
+ ## Références
+ 
+ CDP (2020). CDP Full GHG Emissions Dataset. Technical Annex IV: Scope 3 Overview and Modelling.
+ 
+ CGDD/SDES (2020). _Méthodologie de l’empreinte carbone de la demande finale intérieure française_.
+ 
+ Eurostat (2015), _Manual for air emissions account_.
+ 
+ Moran, D., & Wood, R. (2014). Convergence between the Eora, WIOD, EXIOBASE, and OpenEU's consumption-based carbon accounts. _Economic Systems Research_, 26(3), 245-261.
+ 
+ OECD (2018). A review of the empirical literature combining economic and environmental performance at the micro-level
+ 
+ Rajagopal, D., Vanderghem, C., & MacLean, H. L. (2017). Life cycle assessment for economists._ Annual Review of Resource Economics_, 9, 361-381.
