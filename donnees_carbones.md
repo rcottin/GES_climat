@@ -40,15 +40,12 @@ Il existe plusieurs méthodes pour modéliser les émissions de scope 3 . Les mo
 Le carbon disclosure project (CDP) effectue un retraitement sur les scopes 1 et 2 pour harmoniser les données reportées et éliminer les valeurs extrêmes. Les données scopes 3 sont également retraitées dans le CDP mais les frontières de reporting sont considérées comme trop variables pour donner lieu à des comparaisons fiables.
 Fournisseurs de données
 
-•	**Reuters** : a priori des données publiées par les entreprises. Il importe de savoir :
+-	**Reuters** : a priori des données publiées par les entreprises. Il importe de savoir :
   + Le périmètre exact (quels scopes sont considérés)
   + Quels types de retraitements sont effectués
- 
-• **CDP** : accès aux données brutes possibles. Rassemble des données reportées par les entreprises, mais effectue un contrôle qualité sur le reporting et une harmonisation ex-post
-
-•	**Inrate** : reprend les données CDP (A VERIFIER), ajouter des données modélisées (provenant de MRIO) pour les scopes 3
-
-•	**ADEME** : les bilans carbones effectués par les entreprises sont consultables sur le site de l’ADEME via une API. Selon l’ADEME, celles-ci ne doivent pas être utilisés pour comparer les entreprises entre elles.
+-  **CDP** : accès aux données brutes possibles. Rassemble des données reportées par les entreprises, mais effectue un contrôle qualité sur le reporting et une harmonisation ex-post
+-	**Inrate** : reprend les données CDP (A VERIFIER), ajouter des données modélisées (provenant de MRIO) pour les scopes 3
+-	**ADEME** : les bilans carbones effectués par les entreprises sont consultables sur le site de l’ADEME via une API. Selon l’ADEME, celles-ci ne doivent pas être utilisés pour comparer les entreprises entre elles.
 
 ## Utilisations des données d’intensité / d’émissions
 
