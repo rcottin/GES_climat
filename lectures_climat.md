@@ -23,3 +23,8 @@ points saillants:
  + IDDRI/I4CE/IJD/OFCE : 13-15 Mds EUR inv pbq + privé supp par an de 2021 à 2023 (+0,7 pt PIB)
  + 1,2 pts PIB pour période suivante 2024-2028
  + Carbone4/OFCE/NEO, champ plus réduit : 4-4,8Mds EUR suppl/an. Investissement + importants dans scénario "pro-techno"
+
+![](png/taxe_carb_impl.png)
+
+![](png/besoins_invest.png)
+
