@@ -24,7 +24,7 @@ points saillants:
  + 1,2 pts PIB pour période suivante 2024-2028
  + Carbone4/OFCE/NEO, champ plus réduit : 4-4,8Mds EUR suppl/an. Investissement + importants dans scénario "pro-techno"
 
-![](png/taxe_carb_impl.png)
+![](./png/taxe_carb_impl.png)
 
-![](png/besoins_invest.png)
+![](./png/besoins_invest.png)
 
