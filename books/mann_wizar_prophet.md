@@ -2,6 +2,9 @@
 
 ## Charles C. Mann
 
+
+![](./covers/wizard_prophet.jpg)
+
 *lu en 2020*
 
 
