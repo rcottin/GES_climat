@@ -2,7 +2,7 @@
 
 ## Dieter Helm
 
-<img src="./covers/helm_net_zero.jpg" style="zoom:30%;" />
+<img src="./covers/helm_net_zero.jpg" style="zoom:20%;" />
 
 *lu en avril-mai 2021* 
 
