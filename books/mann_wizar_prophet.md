@@ -1,9 +1,8 @@
-# The Wizard and the Prophet
-## Science and the future of our Planet
+# The Wizard and the Prophet: Science and the future of our Planet
 
-### Charles C. Mann
+## Charles C. Mann
 
-lu en 2020
+*lu en 2020*
 
 
 
