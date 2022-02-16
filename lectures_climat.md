@@ -3,7 +3,7 @@
 
 ## 2022 - Fevrier
 
-### Pastor, Stambaugh, Taylor (2021): Dissecting Green Returns. *Working Paper*
+### Pastor, Stambaugh, Taylor (2021): Dissecting Green Returns. *Working Paper* [(pdf)](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2021/11/StambaughTaylor_NovNewsletter.pdf)
 
 exemple d'analyse de valeurs financières "vertes". L'excès de performance passée des valeurs vertes reflète un shift dans les préférences des investisseur, expansion du marché. 
 
