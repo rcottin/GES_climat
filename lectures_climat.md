@@ -1,11 +1,19 @@
 # Notes de lecture sur le sujet climat/carbone/environnement
 
 
-## 2022
+## 2022 - Fevrier
 
-### Fevrier
+### Pastor, Stambaugh, Taylor (2021): Dissecting Green Returns. *Working Paper*
 
-#### Reynès et al. (2022): Placer l'environnement au coeur de la politique économique
+exemple d'analyse de valeurs financières "vertes". L'excès de performance passée des valeurs vertes reflète un shift dans les préférences des investisseur, expansion du marché. 
+
+> **Abstract** Green assets delivered high returns in recent years. This performance reflects unexpectedly strong increases in environmental concerns, not high expected returns. German green bonds outperformed their higher-yielding non-green twins as the “greenium” widened, and U.S. green stocks outperformed brown as climate concerns strengthened. To show the latter, we construct a theoretically motivated green factor—a return spread between environmentally friendly and unfriendly stocks—and find that its positive performance disappears without climate-concern shocks. A theory-driven two-factor model featuring the green factor explains much of the recent underperformance of value stocks. Our evidence also suggests small stocks underreact to climate news.
+> 
+> Keywords: Sustainable investing, ESG, environment, climate change, green bonds
+
+
+
+### Reynès et al. (2022): Placer l'environnement au coeur de la politique économique
 
 [Policy brief de l'OFCE n°100, 9 février 2022](https://www.ofce.sciences-po.fr/pdf/pbrief/2022/OFCEpbrief100.pdf)
 
