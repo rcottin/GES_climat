@@ -1,7 +1,17 @@
 # Notes de lecture sur le sujet climat/carbone/environnement
 
 
-## 2022 - Fevrier
+## Mars 2022
+
+### publications repérées: 
+* MTE/CGDD/CITEPA:  Prise en compte des émissions de GES dans les études d'impact [lien portail doc](http://portaildoc/exl-php/util/documents/accede_document.php?1648040840767)
+* Misch, F. & Wingender, P. (2021): Revisiting Carbon Leakage. *IMF Working Paper* [link](https://www.imf.org/en/Publications/WP/Issues/2021/08/06/Revisiting-Carbon-Leakage-462148#:~:text=Summary%3A,propose%20innovations%20along%20two%20lines.)
+ > This paper estimates the carbon leakage rate across countries, arguably a key parameter in the international climate policy discussion including on border carbon adjustment, but which remains subject to significant uncertainty. We propose innovations along two lines. First, we exploit recently published data on sector-country-specific changes in energy prices to identify changes in domestic carbon emissions and other flows (rather than the historically limited variation in carbon prices or adherence to international climate agreements). Second, we present a simple accounting framework to derive carbon leakage rates from reduced-form regressions in contrast to existing papers, thereby making our results directly comparable to model-based estimates of carbon leakage. We show that carbon leakage rates differ across countries and could be larger than what existing estimates suggest.
+
+
+
+
+## Fevrier 2022
 
 ### Pastor, Stambaugh, Taylor (2021): Dissecting Green Returns. *Working Paper* [(pdf)](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2021/11/StambaughTaylor_NovNewsletter.pdf)
 
