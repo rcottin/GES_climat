@@ -19,7 +19,7 @@
 * modèle MRIO calibré. paramètres clé: élasticités de substitution: d'où viennent-elles? quelles sont leurs limites/incertitudes?
 * lien de l'effet sectoriel avec le "downstreamness". calcule indices de "downstreamness" à la Antras & Chor (2013). D'une manière générale, les secteur downstream souffrent moins que les upstream de l'application d'une taxe. effet de substitution plus fort que la baisse de la demande. les secteurs upstream sont les plus touchés.
 
-![](../PNG/devulder_lisack.png)
+![](./PNG/devulder_lisack.png)
 
 
 ## Fevrier 2022
