@@ -8,6 +8,17 @@
 * Misch, F. & Wingender, P. (2021): Revisiting Carbon Leakage. *IMF Working Paper* [link](https://www.imf.org/en/Publications/WP/Issues/2021/08/06/Revisiting-Carbon-Leakage-462148#:~:text=Summary%3A,propose%20innovations%20along%20two%20lines.)
  > This paper estimates the carbon leakage rate across countries, arguably a key parameter in the international climate policy discussion including on border carbon adjustment, but which remains subject to significant uncertainty. We propose innovations along two lines. First, we exploit recently published data on sector-country-specific changes in energy prices to identify changes in domestic carbon emissions and other flows (rather than the historically limited variation in carbon prices or adherence to international climate agreements). Second, we present a simple accounting framework to derive carbon leakage rates from reduced-form regressions in contrast to existing papers, thereby making our results directly comparable to model-based estimates of carbon leakage. We show that carbon leakage rates differ across countries and could be larger than what existing estimates suggest.
 
+### papier lus:
+**Antoine Devulder and Noëmie Lisack: Carbon Tax in a Production Network: Propagation and Sectoral Incidence. April 2020, WP #760** [lien pdf](https://publications.banque-france.fr/sites/default/files/medias/documents/wp760.pdf)
+
+> **Abstract:** We analyse the propagation of carbon taxation through input-output production networks. To do so, we use a static multi-sector general equilibrium model including France, the rest of the European Union and the rest of the world to simulate the impact of carbon tax scenarios on economic activity. We find that a tax increase on sectors' and households' greenhouse gas emissions corresponding to a carbon price of 100 euros per ton of carbon dioxide equivalent entails a decrease in French aggregate real value added by 1.2% at a 5-to-10-year horizon when implemented in France only, vs. 1.5% when implemented in the whole EU. Impacts on sectoral real value added range from -20% to negligible. The most affected sectors are generally the most polluting ones, but the tax also propagates across sectors via intermediate inputs. Specifically, the network structure tends to affect comparatively more upstream sectors than downstream ones, given their taxation levels. International financial markets also play an important role by neutralizing the positive response of final demand that would result from the redistribution of the tax proceeds to domestic households.
+> **Keywords:** Carbon tax, multi-sector model, international production networks
+
+**principaux points d'intérêt**: 
+* par rapport à d'autres modèles, absence de "double dividende". Cela vient de l'hypothèse de marchés parfaits à l'international => évite une appréciation du taux de change réel français
+* modèle MRIO calibré. paramètres clé: élasticités de substitution: d'où viennent-elles? quelles sont leurs limites/incertitudes?
+* lien de l'effet sectoriel avec le "downstreamness". calcule indices de "downstreamness" à la Antras & Chor (2013). D'une manière générale, les secteur downstream souffrent moins que les upstream de l'application d'une taxe. effet de substitution plus fort que la baisse de la demande. les secteurs upstream sont les plus touchés.
+
 
 
 
