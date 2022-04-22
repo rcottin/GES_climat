@@ -1,6 +1,19 @@
 # Notes de lecture sur le sujet climat/carbone/environnement
 
 
+## Avril 2022
+
+**Jean Pisani-Ferry:  *Climate Policy is Macroeconomic Policy, and the Implications Will Be Significant*. august 2021, PIEE policy brief** [lien pdf](https://www.piie.com/system/files/documents/pb21-20.pdf)
+* estimations de commission Euro du plan climat : -0.7 à +0.55 % GDP à l'horizon 2030. but small aggregate changes at ten year horizon may conceal stronger disruption. 
+* both pricing or regulation have effect of accelerating obsolescence of existing capital stock. decarbonization is adverse supply shock, of the same order of magnitude of oil shock of 1970s. 
+* composition of growth will change: more investment, less consumption
+* macroeconomic dimensions of climate actions have largely been overlooked
+* transition to net zero invovlves a large negative supply shock : 3 points of 2019 world GDP
+* transition implies net increase in investment of 2% (gross investment higher: divert investment from fossil fuel extraction). first order effect of consmption: 1% less consumption average per yer (10% in 2030). toll can reach 3% per year
+* the net zero transition will likely push public finances further into debt
+
+
+
 ## Mars 2022
 
 ### publications repérées: 
