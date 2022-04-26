@@ -3,6 +3,13 @@
 
 ## Avril 2022
 
+**Richard Tol: _Europe’s Climate Target for 2050: An Assessment_. Intereconomics, Volume 56, 2021 · Number 6 · pp. 330–335** [lien pdf](https://www.intereconomics.eu/contents/year/2021/number/6/article/europe-s-climate-target-for-2050-an-assessment.html#footnote-002-backlink)
+> article de revue des objectifs climatiques de l'UE pour 2050. Affirme de manière provocative que le rapport coût-bénéfice de cet objectif est négatif. 
+> pointe surtout du doigt les contradictions entre objectifs et moyens. Politique a plus de chance d'être efficace si UE est seule à s'engager. dans cas inverse risque d'être très coûteuse pour peu de résultats
+> source de référence pour l'évaluation des incertitudes liées aux modèles et aux trajectoires
+
+
+
 **Jean Pisani-Ferry:  *Climate Policy is Macroeconomic Policy, and the Implications Will Be Significant*. august 2021, PIEE policy brief** [lien pdf](https://www.piie.com/system/files/documents/pb21-20.pdf)
 * estimations de commission Euro du plan climat : -0.7 à +0.55 % GDP à l'horizon 2030. but small aggregate changes at ten year horizon may conceal stronger disruption. 
 * both pricing or regulation have effect of accelerating obsolescence of existing capital stock. decarbonization is adverse supply shock, of the same order of magnitude of oil shock of 1970s. 
