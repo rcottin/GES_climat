@@ -3,6 +3,20 @@
 
 ## Avril 2022
 
+**S. Tagliepietra:  *Fostering the Industrial Component of the European Green Deal: Key Principles and Policy Options* Intereconomics, Volume 56, 2021 · Number 6 · pp. 305–310**
+[lien](https://www.intereconomics.eu/contents/year/2021/number/6/article/fostering-the-industrial-component-of-the-european-green-deal-key-principles-and-policy-options.html) 
+
+> "The principles used by the new industrial policy approach to design policy interventions rest on the notion that the role of the state in industrial policy design must be that of identifying constraints and opportunities"
+> 
+> Green technologies are often still in the early stage or emerging, with higher levels of risk and uncertainty. In addition, green technologies seem to be more complex than non-green technologies and tend to have larger spillovers and affect a higher variety of other domains (Barbieri et al., 2020). The higher risks and uncertainty and the higher externalities from clean technologies make the case for a more directed approach aimed at supporting investments in clean technologies
+
+références intéressantes sur green industrial policy: 
+* Aghion, P., C. Hepburn, A. Teytelboym and D. Zenghelis (2019), Path dependence, innovation and the economics of climate change, in Handbook on Green Growth, Edward Elgar Publishing
+* Altenburg, T. and D. Rodrik (2017), Green industrial policy: Accelerating structural change towards wealthy green economies, Green Industrial Policy.
+* Hausmann, R., E. Fernández-Arias and U. Panizza (2020), Smart development banks, Journal of Industry, Competition and Trade, 20(2), 395-
+* Kemp, R. and B. Never (2017), Green transition, industrial policy, and economic development, Oxford Review of Economic 
+
+
 **Richard Tol: _Europe’s Climate Target for 2050: An Assessment_. Intereconomics, Volume 56, 2021 · Number 6 · pp. 330–335** [lien pdf](https://www.intereconomics.eu/contents/year/2021/number/6/article/europe-s-climate-target-for-2050-an-assessment.html#footnote-002-backlink)
 > article de revue des objectifs climatiques de l'UE pour 2050. Affirme de manière provocative que le rapport coût-bénéfice de cet objectif est négatif. 
 > pointe surtout du doigt les contradictions entre objectifs et moyens. Politique a plus de chance d'être efficace si UE est seule à s'engager. dans cas inverse risque d'être très coûteuse pour peu de résultats
