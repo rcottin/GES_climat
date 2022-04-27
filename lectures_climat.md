@@ -3,7 +3,7 @@
 
 ## Avril 2022
 
-**S. Tagliepietra:  *Fostering the Industrial Component of the European Green Deal: Key Principles and Policy Options* Intereconomics, Volume 56, 2021 · Number 6 · pp. 305–310**
+**S. Tagliepietra & R. Veugelers:  *Fostering the Industrial Component of the European Green Deal: Key Principles and Policy Options* Intereconomics, Volume 56, 2021 · Number 6 · pp. 305–310**
 [lien](https://www.intereconomics.eu/contents/year/2021/number/6/article/fostering-the-industrial-component-of-the-european-green-deal-key-principles-and-policy-options.html) 
 
 > "The principles used by the new industrial policy approach to design policy interventions rest on the notion that the role of the state in industrial policy design must be that of identifying constraints and opportunities"
