@@ -5,7 +5,7 @@
 
 **M. Parlasca and M. Qaim : Meat Consumption and Sustainability. *Annu. Rev. Resour. Econ.* 2022. 14:6.1–6.25** [(pdf)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-resource-111820-032340)
 
-> *Abstract:* Meat has become a controversial topic in public debates, as it involves multiple sustainability dimensions. Here, we review global meat consumption trends and the various sustainability dimensions involved, including economic, social, environmental, health, and animal welfare issues. Meat has much larger environmental and climate footprints than plant-based foods and can also be associated with negative health effects. Technological options can help to increase the sustainability of meat production, but changes in consumption are required as well. At least in high-income countries, where people consume a lot of meat on average, notable reductions will be important. However, vegetarian lifestyles for all would not necessarily be the best option. Especially in low-income countries, nutritious plant-based foods are not available or affordable year-round. Also, livestock production is an important source of income for many poor households. More research
+> *Abstract:* Meat has become a controversial topic in public debates, as it involves multiple sustainability dimensions. Here, we review global meat consumption trends and the various sustainability dimensions involved, including economic, social, environmental, health, and animal welfare issues. Meat has much larger environmental and climate footprints than plant-based foods and can also be associated with negative health effects. Technological options can help to increase the sustainability of meat production, but changes in consumption are required as well. At least in high-income countries, where people consume a lot of meat on average, notable reductions will be important. However, vegetarian lifestyles for all would not necessarily be the best option. Especially in low-income countries, nutritious plant-based foods are not available or affordable year-round. Also, livestock production is an important source of income for many poor households. More research
 is needed on how to promote technological and behavioral changes while managing sustainability trade-offs. 
 
 article détaillant les différents trade-offs dans la réduction de la consommation de viande: compétition entre food & feed, 
@@ -27,7 +27,7 @@ par paturage que céréale et légumineuses!)
 - changes in meat consumption: "low & moderate meat consumption levels are compatible qwith climate tarets / SDG, even for 10 billion people"
 - soft interventions vs. taxes
 
-![](pib-viande.png)
+![](./PNG/pib_viande.png)
 
 
 ## Avril 2022
