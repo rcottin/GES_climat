@@ -1,6 +1,35 @@
 # Notes de lecture sur le sujet climat/carbone/environnement
 
 
+## Mai 2022
+
+**M. Parlasca and M. Qaim : Meat Consumption and Sustainability. *Annu. Rev. Resour. Econ.* 2022. 14:6.1–6.25** [(pdf)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-resource-111820-032340)
+
+> *Abstract:* Meat has become a controversial topic in public debates, as it involves multiple sustainability dimensions. Here, we review global meat consumption trends and the various sustainability dimensions involved, including economic, social, environmental, health, and animal welfare issues. Meat has much larger environmental and climate footprints than plant-based foods and can also be associated with negative health effects. Technological options can help to increase the sustainability of meat production, but changes in consumption are required as well. At least in high-income countries, where people consume a lot of meat on average, notable reductions will be important. However, vegetarian lifestyles for all would not necessarily be the best option. Especially in low-income countries, nutritious plant-based foods are not available or affordable year-round. Also, livestock production is an important source of income for many poor households. More research
+is needed on how to promote technological and behavioral changes while managing sustainability trade-offs. 
+
+article détaillant les différents trade-offs dans la réduction de la consommation de viande: compétition entre food & feed, 
+ressources en eau, GES, santé. Si tous pointent pour une réduction de conso viande dans pays développés, pas le cas dans monde en 
+développement. pas toujours univoque sur quel type de viande réduire ou privilégier.
+
+points d'intérêt:
+- lien entre augmentation PIB et conso viande pas univoque (fig2)
+- poids viande (hors poisson) important: 40% valeur totale de l'agriculture
+- compétition entre "food and feed": ruminants vs. monogastriques. dépend comment sont nourris (ruminants peuvent pâturer). mais élevage indus = monogastriques mieux
+- aspects environnementaux: GES vs eau ne pousse pas dans même direction!
+- eau: dépend de comptabilisation en eau bleue / eau verte (empreinte plus faible en eau bleue et grise d'espèces nourries 
+par paturage que céréale et légumineuses!)
+- GES: vient de land use liée à production de fourrage et de fermentation entérique liée au ruminants + gestion de déchets. **les emissions du transport et du packaging sont quasi negligeables en comparaison**
+- différence entre C02 et CH4: le méthane a plus de pouvoir réchauffant mais ne s'accumule pas (dégrade vite): compliqué de comparer le GWP
+- empreinte de viande rouge très large, et **plus importante** dans paturage que dans intensif!! trade off entre eau/ food vs. feed et reduction de GHG!
+- santé: lien entre viande rouge, particulièrement transformée, et diabete/ cancer colorectal / maladies cardiovasculaires (mais provient toujours d'analyses observationnelles, longitudinales. effet mediateur fort du BMI)
+ "recommending specific maximum levels of meat consumption purely based on health criteria is difficult or impossible": pas d'effet dose etc. small to moderates quantities unproblematic / benefic (esp. for populations that only consume stapel food)
+- changes in meat consumption: "low & moderate meat consumption levels are compatible qwith climate tarets / SDG, even for 10 billion people"
+- soft interventions vs. taxes
+
+![](pib-viande.png)
+
+
 ## Avril 2022
 
 **S. Tagliepietra & R. Veugelers:  *Fostering the Industrial Component of the European Green Deal: Key Principles and Policy Options* Intereconomics, Volume 56, 2021 · Number 6 · pp. 305–310**
