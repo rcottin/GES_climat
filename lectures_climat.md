@@ -12,14 +12,12 @@ This generates a ”discounting premium puzzle”: economic experts want to pena
 * pour des projets réduisant le risque macro, le taux d'escompte public utilisé devrait être plus bas. 
 * revue de la théorie (un peu sèche) en partie 1
 * références intéressantes: 
- + Drupp, M. A., M. C. Freeman, B. Groom, and F. Nesje (2018). Discounting disentangled. American Economic Journal: Economic Policy 10 (4), 109–34.
- + Hammitt, J. and C. Gollier (2014). The long run discount rate controversy. Annual Review of Resources Economics 6, 273–295.
+ `+ Drupp, M. A., M. C. Freeman, B. Groom, and F. Nesje (2018). Discounting disentangled. American Economic Journal: Economic Policy 10 (4), 109–34.
+ `+ Hammitt, J. and C. Gollier (2014). The long run discount rate controversy. Annual Review of Resources Economics 6, 273–295.
 
 
 
 
-
-June 2022
 
 
 ## Mai 2022
