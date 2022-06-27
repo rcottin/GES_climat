@@ -4,7 +4,7 @@
 
 ### Skimmed: 
 
-**C. Gollier,  F. van der Ploeg, J. Zheng: THE DISCOUNTING PREMIUM PUZZLE:Survey evidence from professional economists *Working Paper* ** [(pdf)](https://drive.google.com/file/d/15WI68GIzXWtGgrwCJ5i0Q1J29PtFWPEk/view)
+**C. Gollier,  F. van der Ploeg, J. Zheng: THE DISCOUNTING PREMIUM PUZZLE:Survey evidence from professional economists *Working Paper*** [(pdf)](https://drive.google.com/file/d/15WI68GIzXWtGgrwCJ5i0Q1J29PtFWPEk/view)
 
 > We survey the attitude towards the risk-adjustment of efficient discount rates among the economics profession. Three-fourth of our respondents recommend adjusting discount rates to the risk profile of the project under scrutiny, in clear opposition to the standard practice of using a single discount rate in most public administrations around the world. For example, on average, respondents recommend using a larger discount rate for railway infrastructures than for hospitals and climate mitigation. We also observe that the degree of discounting discrimination between obviously different risk profiles remains rather limited in our sample.
 This generates a ”discounting premium puzzle”: economic experts want to penalize risky public projects much less than financial markets do for private investments. Finally, among experts supporting a single discount rate, there is no consensus about whether it should be based on the average cost of capital in the economy, the sovereign borrowing cost, or the Ramsey rule, yielding disagreement on its level.
@@ -12,8 +12,8 @@ This generates a ”discounting premium puzzle”: economic experts want to pena
 * pour des projets réduisant le risque macro, le taux d'escompte public utilisé devrait être plus bas. 
 * revue de la théorie (un peu sèche) en partie 1
 * références intéressantes: 
-+ Drupp, M. A., M. C. Freeman, B. Groom, and F. Nesje (2018). Discounting disentangled. American Economic Journal: Economic Policy 10 (4), 109–34.
-+ Hammitt, J. and C. Gollier (2014). The long run discount rate controversy. Annual Review of Resources Economics 6, 273–295.
+ + Drupp, M. A., M. C. Freeman, B. Groom, and F. Nesje (2018). Discounting disentangled. American Economic Journal: Economic Policy 10 (4), 109–34.
+ + Hammitt, J. and C. Gollier (2014). The long run discount rate controversy. Annual Review of Resources Economics 6, 273–295.
 
 
 
