@@ -1,16 +1,29 @@
 # Notes de lecture sur le sujet climat/carbone/environnement
 
+## Juin 2022
+
+### Skimmed: 
+
+**C. Gollier,  F. van der Ploeg, J. Zheng: THE DISCOUNTING PREMIUM PUZZLE:Survey evidence from professional economists *Working Paper* ** [(pdf)](https://drive.google.com/file/d/15WI68GIzXWtGgrwCJ5i0Q1J29PtFWPEk/view)
+
+> We survey the attitude towards the risk-adjustment of efficient discount rates among the economics profession. Three-fourth of our respondents recommend adjusting discount rates to the risk profile of the project under scrutiny, in clear opposition to the standard practice of using a single discount rate in most public administrations around the world. For example, on average, respondents recommend using a larger discount rate for railway infrastructures than for hospitals and climate mitigation. We also observe that the degree of discounting discrimination between obviously different risk profiles remains rather limited in our sample.
+This generates a ”discounting premium puzzle”: economic experts want to penalize risky public projects much less than financial markets do for private investments. Finally, among experts supporting a single discount rate, there is no consensus about whether it should be based on the average cost of capital in the economy, the sovereign borrowing cost, or the Ramsey rule, yielding disagreement on its level.
+
+* pour des projets réduisant le risque macro, le taux d'escompte public utilisé devrait être plus bas. 
+* revue de la théorie (un peu sèche) en partie 1
+* références intéressantes: 
++ Drupp, M. A., M. C. Freeman, B. Groom, and F. Nesje (2018). Discounting disentangled. American Economic Journal: Economic Policy 10 (4), 109–34.
++ Hammitt, J. and C. Gollier (2014). The long run discount rate controversy. Annual Review of Resources Economics 6, 273–295.
+
+
+
+
+
+June 2022
+
 
 ## Mai 2022
 
-### skimmed:
-
-* **Baylis, Heckelei, Hertel:  *Agricultural Trade and Environmental Sustainability*, Annual Review of Resource Economics 2021 13:1, 379-401 ([link](https://www.annualreviews.org/doi/abs/10.1146/annurev-resource-101420-090453))**
->  Global agriculture consumes substantial resources and produces significant pollution. By shifting its production to new locations, and inducing changes in technology and input use, trade has a substantial impact on environmental sustainability of the world's food systems, but due to suboptimal environmental policy, the exact nature of these impacts is in dispute. We review the literature on agricultural trade and environmental sustainability, highlighting the different approaches taken in ecology versus economics. While useful in identifying environmental costs, much of the ecological literature does not compare these costs to a trade-free counterfactual and can therefore be misleading. Further, by moving production to places with more resources and increasing production efficiency, trade can reduce the environmental impact of food production. On the other hand, trade can also limit the effectiveness of domestic environmental policy because production can be shifted to countries with less stringent regulations. However, recently, consumers are leveraging trade policy to induce exporters to improve environmental sustainability. While such policies are gaining traction in wealthy countries, evidence suggests that such measures will not reach their potential without buy-in from decision makers in the countries where the environmental damages are occurring.
-* **J López Prol and W-P Schill: *The Economics of Variable Renewable Energy and Electricity Storage*. Annual Review of Resource Economics 2021 13:1, 443-467 ([lien](https://www.annualreviews.org/doi/abs/10.1146/annurev-resource-101620-081246))**
->  The transformation of the electricity sector is a central element of the transition to a decarbonized economy. Conventional generators powered by fossil fuels have to be replaced by variable renewable energy (VRE) sources in combination with electricity storage and other options for providing temporal flexibility. We discuss the market dynamics of increasing VRE penetration and its integration in the electricity system. We describe the merit-order effect (the decline of wholesale electricity prices as VRE penetration increases) and the cannibalization effect (the decline of VRE value as its penetration increases). We further review the role of electricity storage and other flexibility options for integrating variable renewables and how storage can contribute to mitigating the two mentioned effects. We also use a stylized open-source model to provide some graphical intuition on these issues. While relatively high shares of VRE are achievable with moderate amounts of electricity storage, the role of long-duration storage increases as the VRE share approaches 100%.
-* **Matin Qaim : *The Economics of Genetically Modified Crops* Annual Review of Resource Economics 2009 1:1, 665-694** ([link](https://www.annualreviews.org/doi/abs/10.1146/annurev.resource.050708.144203))
- >  Genetically modified (GM) crops have been used commercially for more than 10 years. Available impact studies of insect-resistant and herbicide-tolerant crops show that these technologies are beneficial to farmers and consumers, producing large aggregate welfare gains as well as positive effects for the environment and human health. The advantages of future applications could even be much bigger. Given a conducive institutional framework, GM crops can contribute significantly to global food security and poverty reduction. Nonetheless, widespread public reservations have led to a complex system of regulations. Overregulation has become a real threat for the further development and use of GM crops. The costs in terms of foregone benefits may be large, especially for developing countries. Economics research has an important role to play in designing efficient regulatory mechanisms and agricultural innovation systems.
 
 ### lu
 
@@ -39,6 +52,16 @@ par paturage que céréale et légumineuses!)
 - soft interventions vs. taxes
 
 ![](./PNG/pib_viande.png)
+
+
+### skimmed:
+
+* **Baylis, Heckelei, Hertel:  *Agricultural Trade and Environmental Sustainability*, Annual Review of Resource Economics 2021 13:1, 379-401 ([link](https://www.annualreviews.org/doi/abs/10.1146/annurev-resource-101420-090453))**
+>  Global agriculture consumes substantial resources and produces significant pollution. By shifting its production to new locations, and inducing changes in technology and input use, trade has a substantial impact on environmental sustainability of the world's food systems, but due to suboptimal environmental policy, the exact nature of these impacts is in dispute. We review the literature on agricultural trade and environmental sustainability, highlighting the different approaches taken in ecology versus economics. While useful in identifying environmental costs, much of the ecological literature does not compare these costs to a trade-free counterfactual and can therefore be misleading. Further, by moving production to places with more resources and increasing production efficiency, trade can reduce the environmental impact of food production. On the other hand, trade can also limit the effectiveness of domestic environmental policy because production can be shifted to countries with less stringent regulations. However, recently, consumers are leveraging trade policy to induce exporters to improve environmental sustainability. While such policies are gaining traction in wealthy countries, evidence suggests that such measures will not reach their potential without buy-in from decision makers in the countries where the environmental damages are occurring.
+* **J López Prol and W-P Schill: *The Economics of Variable Renewable Energy and Electricity Storage*. Annual Review of Resource Economics 2021 13:1, 443-467 ([lien](https://www.annualreviews.org/doi/abs/10.1146/annurev-resource-101620-081246))**
+>  The transformation of the electricity sector is a central element of the transition to a decarbonized economy. Conventional generators powered by fossil fuels have to be replaced by variable renewable energy (VRE) sources in combination with electricity storage and other options for providing temporal flexibility. We discuss the market dynamics of increasing VRE penetration and its integration in the electricity system. We describe the merit-order effect (the decline of wholesale electricity prices as VRE penetration increases) and the cannibalization effect (the decline of VRE value as its penetration increases). We further review the role of electricity storage and other flexibility options for integrating variable renewables and how storage can contribute to mitigating the two mentioned effects. We also use a stylized open-source model to provide some graphical intuition on these issues. While relatively high shares of VRE are achievable with moderate amounts of electricity storage, the role of long-duration storage increases as the VRE share approaches 100%.
+* **Matin Qaim : *The Economics of Genetically Modified Crops* Annual Review of Resource Economics 2009 1:1, 665-694** ([link](https://www.annualreviews.org/doi/abs/10.1146/annurev.resource.050708.144203))
+ >  Genetically modified (GM) crops have been used commercially for more than 10 years. Available impact studies of insect-resistant and herbicide-tolerant crops show that these technologies are beneficial to farmers and consumers, producing large aggregate welfare gains as well as positive effects for the environment and human health. The advantages of future applications could even be much bigger. Given a conducive institutional framework, GM crops can contribute significantly to global food security and poverty reduction. Nonetheless, widespread public reservations have led to a complex system of regulations. Overregulation has become a real threat for the further development and use of GM crops. The costs in terms of foregone benefits may be large, especially for developing countries. Economics research has an important role to play in designing efficient regulatory mechanisms and agricultural innovation systems.
 
 
 ## Avril 2022
