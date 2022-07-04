@@ -1,5 +1,15 @@
 # Notes de lecture sur le sujet climat/carbone/environnement
 
+
+## Juillet 2022
+
+**Brander, M., Gillenwater, M., & Ascui, F. (2018). Creative accounting: A critical perspective on the market-based method for reporting purchased electricity (scope 2) emissions. *Energy Policy*, 112, 29-33.** [(lien)](https://www.sciencedirect.com/science/article/pii/S0301421517306213)
+> Electricity generation accounts for approximately 25% of global greenhouse gas (GHG) emissions, with more than two-thirds of this electricity consumed by commercial or industrial users. To reduce electricity consumption-related emissions effectively at the level of individual firms, it is essential that they are measured accurately and that decision-relevant information is provided to managers, consumers, regulators and investors. However, an emergent GHG accounting method for corporate electricity consumption (the ‘market-based’ method) fails to meet these criteria and therefore is likely to lead to a misallocation of climate change mitigation efforts. We identify two interrelated problems with the market-based method: 1. purchasing contractual emission factors is very unlikely to increase the amount of renewable electricity generation; and 2. the method fails to provide accurate or relevant information in GHG reports. We also identify reasons why the method has nonetheless been accepted by many stakeholders, and provide recommendations for the revision of international standards for GHG accounting. The case is important given the magnitude of emissions attributable to commercial/industrial electricity consumption, and it also provides broader lessons for other forms of GHG accounting.
+
+* le scope 2 market-based n'est pas additionel: souvent les investissements sont déjà faits (en gros, on compte deux fois la même réduction d'émissions)
+* le market-based conduit à moins de comparabilité entre deux entreprises similaires
+
+
 ## Juin 2022
 
 ### Skimmed: 
