@@ -9,6 +9,11 @@
 * le scope 2 market-based n'est pas additionel: souvent les investissements sont déjà faits (en gros, on compte deux fois la même réduction d'émissions)
 * le market-based conduit à moins de comparabilité entre deux entreprises similaires
 
+**sur le même sujet (comptabilité carbone et prise en compte de l'électricité):**
+
+* [Gillenwater 2008](https://www.sciencedirect.com/science/article/abs/pii/S0301421508000803?via%3Dihub) explique pourquoi les Certificats d'Energie Renouvelable (REC, *renewable energy certificates*) ne sont pas assimilables à des offsets réels: ils s'apparentent à une subvention à la production d'énergie renouvelable mais ne constituent pas un *transfert de réductions d'émissions*. Ils ne sont pas additionnels, pouvant tout au plus avoir un effet sur la demande de marché.
+* [Pulles et al. 2022](https://www.tandfonline.com/doi/full/10.1080/17583004.2022.2067456) explique que dans les inventaires nationaux, les émissions de carbones liées à la combustion de biomasse sont *par convention* valorisée à zéro, mais que cela peut masquer des émissions réelles. Le problème sera de plus en plus important au fur et à mesure que la biomasse prendra de l'importance dans les stratégies de réduction des GES
+
 
 ## Juin 2022
 
